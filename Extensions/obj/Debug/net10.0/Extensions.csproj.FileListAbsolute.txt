@@ -1,0 +1,12 @@
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/bin/Debug/net10.0/Extensions.deps.json
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/bin/Debug/net10.0/Extensions.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/bin/Debug/net10.0/Extensions.pdb
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.AssemblyInfoInputs.cache
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.AssemblyInfo.cs
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.csproj.CoreCompileInputs.cache
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.sourcelink.json
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/refint/Extensions.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/Extensions.pdb
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/Debug/net10.0/ref/Extensions.dll

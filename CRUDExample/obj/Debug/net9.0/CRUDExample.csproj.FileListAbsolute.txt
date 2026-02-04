@@ -26,3 +26,6 @@
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/obj/Debug/net9.0/CRUDExample.pdb
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/obj/Debug/net9.0/CRUDExample.genruntimeconfig.cache
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/obj/Debug/net9.0/ref/CRUDExample.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/bin/Debug/net9.0/CRUDExample.staticwebassets.runtime.json
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/obj/Debug/net9.0/compressed/l7tpejtyy5-{0}-4vqcotygqq-4vqcotygqq.gz
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExample/obj/Debug/net9.0/swae.build.ex.cache
