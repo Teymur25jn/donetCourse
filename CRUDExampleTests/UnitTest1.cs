@@ -1,4 +1,6 @@
-﻿namespace CRUDExampleTests;
+﻿using Xunit;
+
+namespace CRUDExampleTests;
 
 public class UnitTest1
 {
