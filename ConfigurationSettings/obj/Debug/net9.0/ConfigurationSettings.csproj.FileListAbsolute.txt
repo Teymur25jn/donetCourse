@@ -26,4 +26,3 @@
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ConfigurationSettings/obj/Debug/net9.0/ConfigurationSettings.pdb
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ConfigurationSettings/obj/Debug/net9.0/ConfigurationSettings.genruntimeconfig.cache
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ConfigurationSettings/obj/Debug/net9.0/ref/ConfigurationSettings.dll
-/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ConfigurationSettings/obj/Debug/net9.0/swae.build.ex.cache

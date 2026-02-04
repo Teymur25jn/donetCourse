@@ -68,10 +68,12 @@
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Composition.Runtime.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Composition.TypedParts.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Formats.Asn1.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Resources.Extensions.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Text.Json.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/System.Windows.Extensions.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/af/Humanizer.resources.dll
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/ar/Humanizer.resources.dll
@@ -251,5 +253,4 @@
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/bin/Debug/net9.0/StockApp.staticwebassets.runtime.json
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/obj/Debug/net9.0/StockApp.RazorAssemblyInfo.cache
 /Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/obj/Debug/net9.0/StockApp.RazorAssemblyInfo.cs
-/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/obj/Debug/net9.0/compressed/rgxh7tn4mn-{0}-ts32k6jurw-ts32k6jurw.gz
-/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/obj/Debug/net9.0/swae.build.ex.cache
+/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/StockApp/obj/Debug/net9.0/compressed/w2u644wxww-ts32k6jurw.gz

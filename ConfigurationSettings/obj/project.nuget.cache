@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jT9RVeesfNc=",
+  "dgSpecHash": "kOOt1FX6TTE=",
   "success": true,
   "projectFilePath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ConfigurationSettings/ConfigurationSettings.csproj",
-  "expectedPackageFiles": [
-    "/Users/mammadliteymur/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/mammadliteymur/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/mammadliteymur/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
