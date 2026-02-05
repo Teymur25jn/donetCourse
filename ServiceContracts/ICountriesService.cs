@@ -1,4 +1,6 @@
-﻿using ServiceContracts.DTO;
+﻿using System;
+using System.Collections.Generic;
+using ServiceContracts.DTO;
 using ServiceContracts.DTO.Response;
 
 namespace ServiceContracts;

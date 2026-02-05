@@ -1,3 +1,4 @@
+using System;
 using Entities;
 
 namespace ServiceContracts.DTO.Response;
