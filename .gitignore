@@ -14,10 +14,21 @@ out/
 
 # NuGet packages
 *.nupkg
+*.snupkg
 packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider / ReSharper caches
+*.DotSettings.user
+_ReSharper*/
+*.DotSettings
 
 # macOS files
 .DS_Store
+.AppleDouble
+.LSOverride
 
 # Logs and temporary files
 *.log
@@ -30,3 +41,16 @@ coverage.*
 *.coveragexml
 *.testresults
 *.trx
+*.ncrunch*
+*.userprefs
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Generated configs
+*.generated.cs
+*.g.cs
+*.g.i.cs

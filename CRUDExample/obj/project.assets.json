@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExample/CRUDExample.csproj",
+      "projectUniqueName": "/Users/mammadliteymur/DotNet Projects/Udemy/DotnetCourse/CRUDExample/CRUDExample.csproj",
       "projectName": "CRUDExample",
-      "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExample/CRUDExample.csproj",
+      "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/DotnetCourse/CRUDExample/CRUDExample.csproj",
       "packagesPath": "/Users/mammadliteymur/.nuget/packages/",
-      "outputPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExample/obj/",
+      "outputPath": "/Users/mammadliteymur/DotNet Projects/Udemy/DotnetCourse/CRUDExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mammadliteymur/.nuget/NuGet/NuGet.Config"

@@ -37,10 +37,10 @@ public class HomeController : Controller
         StockViewModel stockViewModel = new StockViewModel()
         {
             StockSymbol = _tradingOptions.Value.DefaultStockSymbol,
-            CurrentPrice = Convert.ToDouble(responseDictionary?["c"].ToString()),
-            HighestPrice = Convert.ToDouble(responseDictionary?["h"].ToString()),
-            LowestPrice = Convert.ToDouble(responseDictionary?["l"].ToString()),
-            OpenPrice = Convert.ToDouble(responseDictionary?["o"].ToString()),
+            CurrentPrice = Convert.ToDouble(responseDictionary["c"].ToString()),
+            HighestPrice = Convert.ToDouble(responseDictionary["h"].ToString()),
+            LowestPrice = Convert.ToDouble(responseDictionary["l"].ToString()),
+            OpenPrice = Convert.ToDouble(responseDictionary["o"].ToString()),
         };
         
         return View(stockViewModel);
