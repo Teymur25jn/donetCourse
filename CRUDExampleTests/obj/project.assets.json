@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
+      "projectUniqueName": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
       "projectName": "CRUDExampleTests",
-      "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
+      "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
       "packagesPath": "/Users/mammadliteymur/.nuget/packages/",
-      "outputPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExampleTests/obj/",
+      "outputPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExampleTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mammadliteymur/.nuget/NuGet/NuGet.Config"
@@ -1003,14 +1003,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj": {
-              "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj"
+            "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj": {
+              "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj"
             },
-            "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ServiceContracts/ServiceContracts.csproj": {
-              "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/ServiceContracts/ServiceContracts.csproj"
+            "/Users/mammadliteymur/Desktop/ASP.Net Core 10/ServiceContracts/ServiceContracts.csproj": {
+              "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/ServiceContracts/ServiceContracts.csproj"
             },
-            "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Services/Services.csproj": {
-              "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Services/Services.csproj"
+            "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Services/Services.csproj": {
+              "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Services/Services.csproj"
             }
           }
         }

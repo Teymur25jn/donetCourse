@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dz7dVZNFVmc=",
+  "dgSpecHash": "h0Xu0CMCZW0=",
   "success": true,
-  "projectFilePath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
+  "projectFilePath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/CRUDExampleTests/CRUDExampleTests.csproj",
   "expectedPackageFiles": [
     "/Users/mammadliteymur/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/mammadliteymur/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",

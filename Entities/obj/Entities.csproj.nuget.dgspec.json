@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj": {}
+    "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj": {
+    "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/Entities.csproj",
+        "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/Entities.csproj",
         "packagesPath": "/Users/mammadliteymur/.nuget/packages/",
-        "outputPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Entities/obj/",
+        "outputPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mammadliteymur/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/Extensions.csproj": {
-                "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/Extensions.csproj"
+              "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/Extensions.csproj": {
+                "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/Extensions.csproj"
               }
             }
           }
@@ -341,14 +341,14 @@
         }
       }
     },
-    "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/Extensions.csproj": {
+    "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/Extensions.csproj",
+        "projectUniqueName": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/Extensions.csproj",
         "projectName": "Extensions",
-        "projectPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/Extensions.csproj",
+        "projectPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/Extensions.csproj",
         "packagesPath": "/Users/mammadliteymur/.nuget/packages/",
-        "outputPath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Extensions/obj/",
+        "outputPath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Extensions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mammadliteymur/.nuget/NuGet/NuGet.Config"
