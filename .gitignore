@@ -11,8 +11,6 @@ out/
 .vs/
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
 
 # NuGet packages
 *.nupkg
