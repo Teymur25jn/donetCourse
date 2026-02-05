@@ -1,0 +1,10 @@
+# Build folders
+bin/
+obj/
+
+# IDE settings
+.vs/
+.idea/
+
+# macOS metadata
+.DS_Store

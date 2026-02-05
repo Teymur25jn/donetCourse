@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y5Osxaxb5qE=",
+  "dgSpecHash": "N9X1kY8cJ/8=",
   "success": true,
-  "projectFilePath": "/Users/mammadliteymur/DotNet Projects/Udemy/Asp.Net core 10 Course/ASP.Net Core 10/Services/Services.csproj",
+  "projectFilePath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/Services/Services.csproj",
   "expectedPackageFiles": [
     "/Users/mammadliteymur/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512"
   ],

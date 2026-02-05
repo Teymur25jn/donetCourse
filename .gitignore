@@ -1,11 +1,22 @@
-/ASP.Net Core 10.sln
 # Build folders
 bin/
 obj/
 
-# IDE settings
+# Rider/VS settings
 .vs/
 .idea/
 
 # macOS metadata
 .DS_Store
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
