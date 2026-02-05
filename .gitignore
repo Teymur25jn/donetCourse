@@ -1,22 +1,58 @@
-# Build folders
+# Build outputs
 bin/
 obj/
+out/
 
-# Rider/VS settings
-.vs/
+# Rider project files
 .idea/
+*.sln.iml
 
-# macOS metadata
-.DS_Store
-
-# User-specific files
+# Visual Studio files
+.vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# NuGet
+# NuGet packages
 *.nupkg
+*.snupkg
 packages/
 project.lock.json
-project.assets.json
+project.fragment.lock.json
+artifacts/
+
+# Rider / ReSharper caches
+*.DotSettings.user
+_ReSharper*/
+*.DotSettings
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Test coverage files
+coverage.*
+*.coverage
+*.coveragexml
+*.testresults
+*.trx
+*.ncrunch*
+*.userprefs
+
+# Backup files
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Generated configs
+*.generated.cs
+*.g.cs
+*.g.i.cs
