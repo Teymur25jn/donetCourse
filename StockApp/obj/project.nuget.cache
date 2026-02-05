@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KMNTp92JVaA=",
+  "dgSpecHash": "VRTdf7SrImc=",
   "success": true,
-  "projectFilePath": "/Users/mammadliteymur/Desktop/ASP.Net Core 10/StockApp/StockApp.csproj",
+  "projectFilePath": "/Users/mammadliteymur/DotNet Projects/Udemy/DotnetCourse/StockApp/StockApp.csproj",
   "expectedPackageFiles": [
     "/Users/mammadliteymur/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/mammadliteymur/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
